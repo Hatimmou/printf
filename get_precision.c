@@ -27,7 +27,8 @@ curr_i++;
 precision = va_arg(list, int);
 break;
 }
-e
+else
+
 break;
 }
 *i = curr_i - 1;
